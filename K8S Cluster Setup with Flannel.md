@@ -1,7 +1,7 @@
 
 # Kubernetes Cluster Setup with Flannel CNI
 
-This guide covers the setup of a Kubernetes Master and Worker Node using containerd as the runtime and Flannel as the CNI.
+This guide covers the setup of a Kubernetes Master and Worker Node using containerd as the runtime and Flannel as the CNI. Ensure that Ubuntu OS version 22.04 or later is installed before executing the following command
 
 ---
 
