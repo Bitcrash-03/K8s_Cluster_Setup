@@ -1,5 +1,5 @@
 
-# Kubernetes Master Node Setup with Cilium
+# Kubernetes Cluster Setup with Cilium
 
 This script sets up a Kubernetes master node with Cilium as the CNI.
 
