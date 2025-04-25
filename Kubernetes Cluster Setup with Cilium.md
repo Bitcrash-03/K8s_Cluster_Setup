@@ -1,6 +1,8 @@
 
 # Kubernetes Cluster Setup with Cilium
 
+Ensure that Ubuntu OS version 22.04 or later is installed before executing the following command
+
 This script sets up a Kubernetes master node with Cilium as the CNI.
 
 ## Steps
